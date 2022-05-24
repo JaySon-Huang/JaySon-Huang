@@ -7,6 +7,11 @@
 
 Let's make the world a litter more beautiful.
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaySon-Huang">
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <!--
 **JaySon-Huang/JaySon-Huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
